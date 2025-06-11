@@ -1,0 +1,65 @@
+Semanas;Producto;Cantidad;Costo
+1;maracuya;0.5;S/ 1.50
+1;maracuya;1;S/ 3.50
+1;fresa;0.5;S/ 1.30
+1;pack oreo ;7;S/ 60.20
+1;maracuya;1;S/ 3.50
+1;fresa;0.25;S/ 0.70
+1;pack vasos;10;S/ 15.00
+1;marketing;1;S/ 18.00
+1;marketing;1;S/ 13.00
+2;fresa;0.5;S/ 1.00
+2;marketing;2;S/ 48.00
+2;maracuya;1;S/ 3.30
+2;fresa;1;S/ 3.00
+2;hielo seco;1;S/ 20.00
+2;pack crema leche;1;S/ 183.60
+2;transporte;2;S/ 21.00
+3;pack palos helados;5;S/ 10.00
+3;fresa;1;S/ 4.00
+3;pack oreo ;15;S/ 118.50
+3;maracuya;0.5;S/ 1.50
+3;fresa;0.5;S/ 2.00
+3;maracuya;1;S/ 3.20
+3;leche condensada;6;S/ 27.00
+4;fresa;0.5;S/ 2.50
+4;maracuya;1;S/ 3.00
+5;maracuya;1;S/ 3.00
+5;fresa;1;S/ 6.50
+5;pack vasos;10;S/ 15.00
+5;leche condensada;4;S/ 18.00
+5;maracuya;0.5;S/ 1.50
+6;leche condensada;2;S/ 9.00
+6;pack crema leche;1;S/ 183.60
+6;fresa;1;S/ 6.00
+6;maracuya;1.5;S/ 3.00
+7;ningun producto;0;S/ 0.00
+8;fresa;1;S/ 5.00
+8;maracuya;1;S/ 3.00
+8;fresa;1;S/ 6.00
+8;maracuya;0.5;S/ 1.50
+9;hielo seco;1;S/ 20.00
+9;transporte;1;S/ 1.50
+9;hielo seco;1;S/ 20.00
+9;transporte;1;S/ 1.50
+9;maracuya;1;S/ 3.00
+9;leche condensada;1;S/ 3.80
+9;transporte;1;S/ 90.00
+9;leche condensada;11;S/ 49.50
+9;transporte;2;S/ 21.00
+9;fresa;1;S/ 6.00
+9;leche condensada;10;S/ 45.00
+10;hielo seco;1;S/ 20.00
+10;maracuya;1;S/ 3.00
+10;pack oreo ;15;S/ 108.00
+10;fresa;1;S/ 8.00
+10;pack vasos;20;S/ 25.00
+10;pack crema leche;1;S/ 183.60
+11;ningun producto;0;S/ 0.00
+12;ningun producto;0;S/ 0.00
+13;ningun producto;0;S/ 0.00
+14;ningun producto;0;S/ 0.00
+15;ningun producto;0;S/ 0.00
+16;ningun producto;0;S/ 0.00
+17;ningun producto;0;S/ 0.00
+18;ningun producto;0;S/ 0.00
