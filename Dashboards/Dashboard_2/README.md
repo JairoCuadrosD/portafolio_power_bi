@@ -1,8 +1,7 @@
-Mi primer informe en POWER BI
 
-Explicacion
 
-Se realizó un análisis de un dashboard de mi emprendimiento del verano 2025 de los Venta Totales 
+Se realizó un dashboard de las ventas del verano 2025 de mi emprendimiento de helados de las 18 primeras semanas, realizando diferentes
+KPI para evaluar el desempeño
 
-![alt text](image.png)
+![alt text](image-1.png)
 
