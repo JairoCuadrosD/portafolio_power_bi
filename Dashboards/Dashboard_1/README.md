@@ -4,4 +4,3 @@ Se realizó un dashboard de los costos del verano 2025 de mi emprendimiento de h
 KPI para evaluar el desempeño, que se puede visualizar en el archivo GastosCream.pbix 
 
 
-![alt text](image.png)
